@@ -1,0 +1,10 @@
+{
+    "name": "terrostart/acf-telephone-field-us",
+    "description": "This is for Test @villagelad",
+    "autoload": {
+        "psr-4": {
+            "Terrostart\\AcfTelephoneFieldUs\\": "src/"
+        }
+    },
+    "require": {}
+}
